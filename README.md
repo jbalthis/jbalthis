@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jbalthis
+- 👀 I’m interested in cool ways of using js
+- 🌱 I’m currently learning how to fly
+- 💞️ I’m looking to collaborate on opensource *nix or js projects
+- 📫 How to reach me balthis.jason@gmail.com
